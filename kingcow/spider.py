@@ -8,7 +8,7 @@ class Spider():
     用于爬取数据
     
     """
-    def __init__(self,web_link,step=0,**kwargs):
+    def __init__(self,web_link,step=1,**kwargs):
         self.kwargs = kwargs
         self.step = step
         if isinstance(web_link,(list,tuple)):
