@@ -2,6 +2,25 @@
 
 ## 这是一个用于网页请求、网页解析和爬虫的库
 
+### 下载
+
+可以使用两种下载方式，需要根据不同的情况来判断
+
+注意:kingcow库在Python2版本下会出现不兼容的问题
+
+#### Pypi下载
+
+Pypi是Python包索引，kingcow库可以用Pypi下载
+
+```
+python -m pip install kingcow
+```
+
+#### github源码下载
+
+复制kingcow到Python解释器的Lib目录的site-packages文件下
+
+
 ### 网页标签解析
 
 kingcow提供了网页标签的解析，您只需提供标签的名称与属性，他就会返回属性的值
