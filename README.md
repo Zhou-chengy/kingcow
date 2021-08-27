@@ -89,5 +89,5 @@ json:json提取
 
 #### Spider_For_Threading
 
-Spider_For_Threading是Spider的多线程版本，速度是Spider的四分之一，具体方法同Spider
+Spider_For_Threading是Spider的多线程版本，速度是Spider的4倍，具体方法同Spider
 
