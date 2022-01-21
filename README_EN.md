@@ -30,7 +30,7 @@ Kingcow provides the resolution of web page tags. You only need to provide the n
 
 import kingcow as kc
 
-a = kc.get(' https://www.taobao.com/ '# returns a kingcow. Request object and sends the request using get
+a = kc.get(' https://www.taobao.com/ ')# returns a kingcow. Request object and sends the request using get
 
 print('a.html_ tag('a','href'))
 
